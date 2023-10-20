@@ -1,0 +1,12 @@
+.idea
+manage.py
+db.sqlite3
+__pycache__/
+
+blog/__pycache__
+blog/migrations
+blog/__init__.py
+
+blog_task/__pycache__
+blog_task/__init__.py
+
